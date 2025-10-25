@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "8F504199-2431-4091-AB36-6EF6D6663892": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        },
+        "900EC604-D1CE-472F-A438-18A1FC5F0524": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "Mahjong_yolo11x_250915.mlmodel",
+            "path": "com.apple.CoreML/Mahjong_yolo11x_250915.mlmodel"
+        },
+        "DC6A3778-5BAA-4347-9378-C2665077F03C": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        }
+    },
+    "rootModelIdentifier": "900EC604-D1CE-472F-A438-18A1FC5F0524"
+}

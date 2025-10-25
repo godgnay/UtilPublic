@@ -1,0 +1,19 @@
+{
+  "MLModelVersionStringKey" : "8.3.202",
+  "MLModelDescriptionKey" : "Ultralytics YOLO11x model trained on datasets\/majiang_yolo_250914.yaml",
+  "MLModelCreatorDefinedKey" : {
+    "stride" : "32",
+    "Confidence threshold" : "0.25",
+    "IoU threshold" : "0.7",
+    "channels" : "3",
+    "task" : "detect",
+    "docs" : "https:\/\/docs.ultralytics.com",
+    "date" : "2025-09-25T15:39:06.272128",
+    "imgsz" : "[640, 640]",
+    "batch" : "1",
+    "args" : "{'batch': 1, 'half': False, 'int8': False, 'nms': True}",
+    "names" : "{0: '000_负例', 1: '001_1条', 2: '002_2条', 3: '003_3条', 4: '004_4条', 5: '005_5条', 6: '006_6条', 7: '007_7条', 8: '008_8条', 9: '009_9条', 10: '010_1饼', 11: '011_2饼', 12: '012_3饼', 13: '013_4饼', 14: '014_5饼', 15: '015_6饼', 16: '016_7饼', 17: '017_8饼', 18: '018_9饼', 19: '019_1万', 20: '020_2万', 21: '021_3万', 22: '022_4万', 23: '023_5万', 24: '024_6万', 25: '025_7万', 26: '026_8万', 27: '027_9万'}"
+  },
+  "MLModelAuthorKey" : "Ultralytics",
+  "MLModelLicenseKey" : "AGPL-3.0 License (https:\/\/ultralytics.com\/license)"
+}
